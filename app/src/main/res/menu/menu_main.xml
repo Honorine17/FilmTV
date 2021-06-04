@@ -1,0 +1,38 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.filmtv.Filmvue">
+
+    <item
+        android:id="@+id/actionrealisateur"
+        android:orderInCategory="200"
+        android:title="@string/Realisateur"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/actiongenre"
+        android:orderInCategory="300"
+        android:title="@string/Genre"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/actionfilm"
+        android:orderInCategory="100"
+        android:title="@string/Film"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/actioncreerfilm"
+        android:orderInCategory="400"
+        android:title="@string/CreerFilm"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/actioncreerreal"
+        android:orderInCategory="400"
+        android:title="@string/CreerRealisateur"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/actioncreergenre"
+        android:orderInCategory="400"
+        android:title="@string/CreerGenre"
+        app:showAsAction="never" />
+
+
+</menu>

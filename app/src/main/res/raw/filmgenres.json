@@ -1,0 +1,5 @@
+{ "filmgenres": [
+  { "idFilm":"1","idGenre":"2"} ,
+  { "idFilm":"2","idGenre":"5"},
+  { "idFilm":"3","idGenre":"3"}
+] }

@@ -1,0 +1,5 @@
+{ "realisateurs": [
+{ "id":"1","nom":"Tarantino Quentin", "datenaissance": "1963-03-27", "nationalite": "Americaine"} ,
+{ "id":"2","nom":"Fincher David", "datenaissance": "1962-08-28", "nationalite": "Americaine"} ,
+{ "id":"3","nom":"Besson Luc", "datenaissance": "1959-03-18", "nationalite": "Française"}
+] }

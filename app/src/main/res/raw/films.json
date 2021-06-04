@@ -1,0 +1,5 @@
+{ "films": [
+{ "id":"1","titre":"Pulp Fiction","description":"L'odyssée sanglante et burlesque de petits malfrats dans la jungle de Hollywood à travers trois histoires qui s'entremêlent.", "annee": "1994-10-26", "pays": "Amerique", "idreal": "1" , "idgenre": "1"} ,
+{ "id":"2","titre":"Kill Bill", "description":"Au cours d'une cérémonie de mariage en plein désert, un commando fait irruption dans la chapelle et tire sur les convives. Laissée pour morte, la Mariée enceinte retrouve ses esprits après un coma de quatre ans.", "annee": "2003-11-26", "pays": "Amerique","idreal": "1","idgenre": "2"} ,
+{ "id":"3","titre":"Leon", "description":"Un tueur à gages répondant au nom de Léon prend sous son aile Mathilda, une petite fille de 12 ans, seule rescapée du massacre de sa famille.", "annee": "1994-09-14", "pays": "France", "idreal":"3", "idgenre": "3"}
+] }

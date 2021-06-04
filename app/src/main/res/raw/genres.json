@@ -1,0 +1,9 @@
+{ "genres": [
+{ "id":"1","nom":"Drame","description":"Genre cinématographique qui traite des situations généralement non épiques dans un contexte sérieux, sur un ton plus susceptible d'inspirer la tristesse que le rire"} ,
+{ "id":"2","nom":"Comédie", "description":"Genre cinématographique dont une des caractéristiques majeures est l'humour"} ,
+{ "id":"3","nom":"Thriller", "description":"Genre cinématographique qui utilise le suspense pour provoquer cher le spectateur une excitation et le tenir en haleine jusq'au dénouement de l'intrigue"},
+{ "id":"4","nom":"Action", "description":"Genre cinématographique qui met en scène une succession de scènes spectaculaires souvent stéréotypées construites autour d'un conflit résolu de manière violente"},
+{ "id":"5","nom":"Horreur", "description":"Genre cinématographique dont l'objectif est de créer un sentiment de peur, de répulsion ou d'angoisse chez le spectateur"},
+{ "id":"6","nom":"Animation", "description":"Genre cinématographique qui ne sert pas de vrais acteurs : à la place, on dessine des personnages et des décors sur des feuilles spéciales que l'on projette sur un écran"},
+{ "id":"7","nom":"Fantastique", "description":"Genre cinématographique regroupant des films faisant appel au sunaturel, à l'horreur, à l'insolite  ou aux monstres. L'intigue se fonde sur des éléments irrationels ou irréalistes"}
+] }

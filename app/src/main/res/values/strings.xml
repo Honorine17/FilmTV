@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FilmTV</string>
+    <string name="Realisateur">Realisateur</string>
+    <string name="Genre">Genre</string>
+    <string name="Film">Film</string>
+    <string name="Creer">Creer</string>
+    <string name="CreerFilm">Créer Film</string>
+    <string name="CreerRealisateur">Créer Réalisateur</string>
+    <string name="CreerActeur">Créer Acteur</string>
+    <string name="CreerGenre">Créer Genre</string>
+    <string name="Acteur">Genre</string>
+</resources>
